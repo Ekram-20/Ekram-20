@@ -1,5 +1,5 @@
 
-### 👋 Hello, I'm Ekram
+# 👋 Hello, I'm Ekram
 
 ## 🚀 About Me
 Freshly graduated in computer science from UQU. I am a dedicated programmer with a passion for Machine Learning. KAUST Academy has accepted me into its AI course, which will significantly enhance my knowledge of this field. Also, I have worked on Flutter projects. Making applications smart by integrating AI is what I enjoy most.
