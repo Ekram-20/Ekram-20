@@ -8,9 +8,6 @@ Freshly graduated in computer science from UQU. I am a dedicated programmer with
 - Languages: Python, Dart, Java
 - Frameworks: Pytorch, Flutter
 
-## 🔭 Current Learning
-
-
 ## 🌱 Current Focus
 I am currently diving deeper into Machine Learning to enhance my expertise. 
 
@@ -33,5 +30,8 @@ Here are some ideas to get you started:
 - [email](mailto:ekramferasj@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ekram-feras/)
 - [Twitter](https://twitter.com/Ekram_j)
+
+## 🔭 Current Learning
+
 
 -->
